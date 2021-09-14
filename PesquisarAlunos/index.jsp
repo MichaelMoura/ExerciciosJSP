@@ -79,7 +79,7 @@
 				}
 			}
 			if(encontrado==false){
-				out.println("<h1>RGM n�o encontrado</h1>");
+				out.println("<h1>RGM nao encontrado</h1>");
 			}
 		}
 	%>
