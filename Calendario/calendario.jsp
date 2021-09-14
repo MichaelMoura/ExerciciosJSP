@@ -102,7 +102,7 @@
 			}else if("fev".equals(mes)){
 				out.println(gerarCalendario(28));
 			}else if(mes==null){
-				out.println("<h3>um momento, companheiro! Voc� n�o inseriu nenhum parametro</h3>");
+				out.println("<h3>um momento, companheiro! Voce nao inseriu nenhum parametro</h3>");
 			}else{
 			
 				out.println(gerarCalendario(30));
