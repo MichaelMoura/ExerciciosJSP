@@ -6,7 +6,7 @@ try {
     String serverName = "localhost:3306"; 
     String mydatabase = "lojacds";  
     String username = "root";
-    String password = "";    
+    String password = "12345";    
     String driverName = "com.mysql.jdbc.Driver";
     Class.forName(driverName);   
     String url = "jdbc:mysql://" + serverName + "/" + mydatabase; 
